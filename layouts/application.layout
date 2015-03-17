@@ -183,8 +183,8 @@
         color: #646464 ;
     }
     
-    .nav a:hover {
-        color:#e8d1c9 !important;
+    .navbar .nav a:hover {
+        color:#e8d1c9 ;
     
     }
      .site-map-section a:hover {
