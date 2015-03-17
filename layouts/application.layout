@@ -183,7 +183,7 @@
         color: #646464 ;
     }
     
-    .navbar .nav  {
+    .navbar  a:hover {
         color:#e8d1c9 !important;
     
     }
