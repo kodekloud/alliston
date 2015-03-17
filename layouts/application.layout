@@ -95,7 +95,7 @@
     
     /*hyperlink hover color*/
     a:hover{
-        color:#646464 !important;
+        color: #646464 !important;
     }
     
     body{
@@ -103,23 +103,24 @@
     }
     
     header{
-        background: #BD2E31;
+        background:#BD2E31;
     }
     
     .main_window{
-        border:40px solid #eaf1fb;
+        border:40px solid #e2bdb1;
     }
     .btn-primary{
-        background: #d9534f !important;
-        border-color:#d43f3a !important;
+        background: #646464 !important;
+        border-color:#4B4B4B !important;
         text-align:center;
         color:white !important;
     }
     
     .btn-primary:hover{
-        background: #d9534f !important;
-        border-color:#d43f3a !important;
+       background: #646464 !important;
+        border-color:#4B4B4B !important;
         text-align:center;
+        color:white !important;
     }
     
     /*menu colors*/
@@ -128,7 +129,7 @@
     }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
-        color:#c8c8c8;
+        color:#e8d1c9;
     }
     
     .site_welcome_msg{
@@ -147,32 +148,28 @@
     }
     /*social media icon inner color*/
     #social_media_wrapper a{
-        color:#18498d;
+        color:white;
+        background:#646464 !important;
+        
     }
     #social_media_wrapper a:hover{
-        color:white;
-        background:black;
+        color: #646464 !important;
+        background:white !important;
     }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
-    fill: #fdd2d4;
+    fill: #e2bdb1;
     }
     /*inside page banners*/
     .page_banner{
-        color:black;
-        /* For Safari 5.1 to 6.0 */
-        background: -webkit-linear-gradient(left,#6e6e6e,#bebdbd, #6e6e6e);
-        /* For Opera 11.1 to 12.0 */
-        background: -o-linear-gradient(left,#6e6e6e,#bebdbd, #6e6e6e);
-        /* For Fx 3.6 to 15 */
-        background: -moz-linear-gradient(left,#6e6e6e,#bebdbd, #6e6e6e);
-        /* Standard syntax */
-        background: linear-gradient(to right,#6e6e6e,#bebdbd, #6e6e6e); 
-        box-shadow: 0px 0px 30px lightgray inset;
+        background: #c96354;
     }
     
+    .site_description {
+        color:black;
+    }
     #description_section{
-        
+        background:#c96354;
     }
     
     .section_header{}
@@ -181,21 +178,24 @@
         padding-bottom:10px;
     }
     
-    
+   .view_button {
+        background:#BD2E31 !important;
+    }
     .right_column_header {
-        color: #009cde ;
+        color: #646464 ;
     }
     
     .navbar .nav li a:hover {
-        color:black !important;
+        color:#e8d1c9 !important;
     
     }
      .site-map-section a:hover {
+         color:#e8d1c9 !important;
      }
     @media (max-width: 767px) {
         .main_window{
             width:100%;
-            border:15px solid #eaf1fb !important;
+            border:15px solid #e2bdb1 !important;
             border-top:none !important;
         }  
     }
