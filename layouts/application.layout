@@ -128,7 +128,7 @@
         color:white;
     }
     
-    .navbar .nav li a:hover,.navbar .nav a:active{
+    .navbar .nav li a:hover,.navbar .nav li a:active{
         color:#e8d1c9;
     }
     
@@ -185,10 +185,7 @@
         color: #646464 ;
     }
     
-    .navbar .nav li a:hover {
-        color:#e8d1c9 !important;
-    
-    }
+   
      .site-map-section a:hover {
          color:#e8d1c9 !important;
      }
