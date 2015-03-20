@@ -17,7 +17,7 @@
                 <p class="right_column_header">categories</p>
                 <div id="mobile_categories_container">
                     <a href="#categories_container" onclick="(show_cat('view_all', 'all'))" id="mobile_view_all_link" class="cat_links directory_content" style="font-weight:bold">View All</a><br>
-                </div>
+                </div>c
             </div>
             
             <div class="directory_div" id="no_cat_list">
@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="right_column">
-            <a href="/map" id="map_link"><p class="right_column_header">centre map</p></a>
+            <!--<a href="/map" id="map_link"><p class="right_column_header">centre map</p></a>-->
             <br>
             <p class="right_column_header">categories</p>
             <div id="categories_container">
