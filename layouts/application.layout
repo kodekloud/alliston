@@ -154,6 +154,9 @@
         color: #646464 !important;
         background:white !important;
     }
+    p input[type='image']{
+       width:100% !important;
+   }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
     fill: #e2bdb1;
