@@ -103,11 +103,11 @@
     }
     
     header{
-        background:#BD2E31;
+        background:#b9141a;
     }
     
     .main_window{
-        border:40px solid #e2bdb1;
+        border:40px solid #edc4c6;
     }
     .btn-primary{
         background: #646464 !important;
@@ -142,35 +142,35 @@
     }
     /*social media box color*/
     #social_media_wrapper{
-        background:#BD2E31;
+        background:#b9141a1;
     }
     /*social media icon inner color*/
     #social_media_wrapper a{
-        color:#BD2E31;
+        color:#b9141a;
         background:white !important;
         
     }
     #social_media_wrapper a:hover{
         color: white !important;
-        background:#BD2E31 !important;
+        background:#b9141a !important;
     }
     p input[type='image']{
        width:100% !important;
    }
     .map-mouse-over{
     /*set color of store highlight and hover over for SVG map*/
-    fill: #e2bdb1;
+    fill: #edc4c6;
     }
     /*inside page banners*/
     .page_banner{
-        background: #c96354;
+        background: #dc898c;
     }
     
     .site_description {
         color:black;
     }
     #description_section{
-        background:#c96354;
+        background:#dc898c;
     }
     
     .section_header{}
@@ -180,23 +180,23 @@
     }
     
    .view_button {
-        background:#BD2E31 !important;
+        background:#b9141a !important;
     }
     .right_column_header {
         color: #646464 ;
     }
     
     .navbar .nav a:hover {
-        color:#e8d1c9 !important;
+        color:#f5dcdd !important;
     
     }
      .site-map-section a:hover {
-         color:#e8d1c9 !important;
+         color:#f5dcdd !important;
      }
     @media (max-width: 767px) {
         .main_window{
             width:100%;
-            border:15px solid #e2bdb1 !important;
+            border:15px solid #edc4c6 !important;
             border-top:none !important;
         }  
     }
